@@ -6,6 +6,9 @@ A web app that helps small businesses and solopreneurs manage their finances wit
 
 ---
 
+## Design
+Figma wireframes: https://www.figma.com/make/QYZBVtUQ3CEVVYv8yOBrYI/Lo-fi-wireframe-for-FinanceFlow?t=Q0wvunCOMQ1m5KHS-1 
+
 ## Pages / Screens
 
 ### 1. Landing Page (`/`)
