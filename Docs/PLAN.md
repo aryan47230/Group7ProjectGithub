@@ -98,8 +98,8 @@ A web app that helps small businesses and solopreneurs manage their finances wit
 
 | Role        | Members                        |
 |-------------|--------------------------------|
-| Website     | Brian, August                  |
-| ML          | Saanvi, Peter, Jose            |
+| Website     | Brian, Saanvi                  |
+| ML          | August, Peter, Jose            |
 | PMs         | jmei52, lilyl4                 |
 
 ---
